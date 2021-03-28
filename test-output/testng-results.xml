@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-28T08:15:32Z" name="Suite" finished-at="2021-03-28T08:15:47Z" duration-ms="15244">
+    <groups>
+    </groups>
+    <test started-at="2021-03-28T08:15:32Z" name="Test" finished-at="2021-03-28T08:15:47Z" duration-ms="15244">
+      <class name="com.qa.test.BaseTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.test.BaseTest@4009e306]" started-at="2021-03-28T08:15:32Z" name="setUp" finished-at="2021-03-28T08:15:40Z" duration-ms="7455" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchGoogle1()[pri:0, instance:com.qa.test.BaseTest@4009e306]" started-at="2021-03-28T08:15:40Z" name="searchGoogle1" finished-at="2021-03-28T08:15:40Z" duration-ms="134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchGoogle1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.test.BaseTest@4009e306]" started-at="2021-03-28T08:15:40Z" name="tearDown" finished-at="2021-03-28T08:15:41Z" duration-ms="766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.test.BaseTest@4009e306]" started-at="2021-03-28T08:15:41Z" name="setUp" finished-at="2021-03-28T08:15:47Z" duration-ms="5981" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchGoogle2()[pri:0, instance:com.qa.test.BaseTest@4009e306]" started-at="2021-03-28T08:15:47Z" name="searchGoogle2" finished-at="2021-03-28T08:15:47Z" duration-ms="120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchGoogle2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.test.BaseTest@4009e306]" started-at="2021-03-28T08:15:47Z" name="tearDown" finished-at="2021-03-28T08:15:47Z" duration-ms="728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.test.BaseTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
